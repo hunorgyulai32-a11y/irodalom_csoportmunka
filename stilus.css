@@ -4,17 +4,19 @@
 :root{
     --szegelySzin:rgba(121, 59, 34, 0.99);
 }
+body{
+    background-image: url(Kepek/0315893d-58c3-4ced-816e-41d84bee7835.png);
+}
 main{
     width: 83%;
     margin: auto;
     max-width: 800px;
     border: 3px solid var(--szegelySzin);
-    background-color: bisque;
+    background-color: rgb(253, 208, 152);
 }
 article{
     width: 99%;
     margin: auto;
-    text-align: justify;
     border: 3px solid var(--szegelySzin);
 }
 .elrendezes{
